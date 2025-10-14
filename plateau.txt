@@ -1,1 +1,5 @@
-Plateau project initial story
+PLATEAU PROJECT STORY
+Once upon a time, a great race took place across the Plateau.
+After a fierce competition, the hero of Plateau finally wins the race victoriously.
+
+This is just a tester.
